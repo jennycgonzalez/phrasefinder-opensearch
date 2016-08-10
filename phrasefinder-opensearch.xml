@@ -1,0 +1,12 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>PhraseFinder</ShortName>
+  <Description>Search millions of books for language use</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/png">http://phrasefinder.io/favicon16-green.png</Image>
+  <Image width="16" height="16" type="image/x-icon">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4AYKCh0MwSABBwAAApFJREFUOMudk1tIk2Ecxn%2Fvu%2B2bbbOcm52knOaGhEmlZSfQurADRgexA3ZRUBcFUdDhppuCbqKbDhAUEQhmQSwo6iKjEgyC0iKERQdr2oSy5VK3lt%2B%2BfW8Xpqjzqt%2FVyx%2Beh5f%2F%2F3mEUopRUsok2BtS18MdfErEMJVCCkHA5eFg0TJqZweETUjGI0YN2qLdand7kLQySY8zHcWCxCIFNyvqqPIWiAkGbdFuVf%2FyDiaZwskIBMHKetZ4Rkxk0jTY1R7ERJFnd1Lt9VHkdE8QLXC6qfb68GoOFIqdr4KkTHPkZ3LXWvXqVy81MxcQrNxBhXsuh4sqsQjJi%2F4Ix%2F2ruFy2iaU5czhavIJ3Q1G6EjGGDP30urzCM9amr50IBJfKNnKs8xGGUoR%2Fx3i4soHQ0A8OFS6j9kUz8x0z0KSFi2UbKH1yhduRTs4uXItMGMPk2LLI1abxLh6lsXwrPoebnuQAK93z6EkOEHB5aCzfxpuBb%2BTZneTYshgyhgGQCEG%2FnuRjvJ9tc0pY3nqNtDIpyfbSpycoyfaSMHQqW6%2BxO7%2BU9%2FGfxFJ%2FxvZj5d%2FmD759wI0lWzjhX03c0InpSR73dXHSv4qrSzbjsmp0%2F%2F7Fvtf3xu4BIApbLqp4anhslD9tOt%2F%2FxDm%2FqAa%2FM5efepL9b%2B4z0%2B6kNzk4dmiXVeNzzREhG%2FJLGU2FAiLJQVLK5NyH53jtDk6FnqKbaSLjxELA3oLFI289ncbXckGlzHRGaDRpQZ9ibpMWvtQcFZqUSJuU3KqoQ07KODClGARNFdvRpJzYhWfRsNrTfhelFIYyM2RWYUGgaF5eR5XHJzLKBJAyTR71fVJXwx2EBvswlIldWgm4PBzwlbN%2BVrHIkpap2%2Fi%2F%2FAX%2B7w5QZdRCJQAAAABJRU5ErkJggg%3D%3D=</Image>
+  <Url type="text/html" template="http://phrasefinder.io/#/phrases">
+    <Param name="query" value="{searchTerms}" />
+    <Param name="corpus" value="eng-us" />
+  </Url>
+  <moz:SearchForm>http://phrasefinder.io/</moz:SearchForm>
+</OpenSearchDescription>
